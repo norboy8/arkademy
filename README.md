@@ -13,6 +13,7 @@ PASS
 No.3
 
 Bahasa : C++
+
 Silahkan gunakan applikasi compiler C++ atau coba jalankan online melalui situs https://www.onlinegdb.com/ .
 
 Run codenya, lalu input nilai.
@@ -28,6 +29,7 @@ lalu masukan nilai dengan angka yang berbeda
 No.4
 
 Bahasa : C++
+
 Silahkan gunakan applikasi compiler C++ atau coba jalankan online melalui situs https://www.onlinegdb.com/ .
 
 Run codenya, lalu tuliskan kata atau kalimat.
