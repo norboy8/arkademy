@@ -6,7 +6,16 @@ PASS
 
 
 No.2
-PASS
+
+Bahasa : C++
+
+Silahkan gunakan applikasi compiler C++ atau coba jalankan online melalui situs https://www.onlinegdb.com/ .
+
+Run codenya, lalu masukan username lalu tekan enter. Setelah itu masukan password.
+
+Program akan berjalan, dan nanti akan ada 2 fungsi berbeda. Yang satu akan memvalidasi inputan Username. Satu lagi akan memvalidasi inputan password.
+
+Hasil dari validasi akan terlihat pada console.
 
 
 
