@@ -9,6 +9,8 @@ No.2
 
 Bahasa : C++
 
+buka file 2.cpp lalu copy paste semua codenya
+
 Silahkan gunakan applikasi compiler C++ atau coba jalankan online melalui situs https://www.onlinegdb.com/ .
 
 Run codenya, lalu masukan username lalu tekan enter. Setelah itu masukan password.
@@ -22,6 +24,8 @@ Hasil dari validasi akan terlihat pada console.
 No.3
 
 Bahasa : C++
+
+buka file 3.cpp lalu copy paste semua codenya
 
 Silahkan gunakan applikasi compiler C++ atau coba jalankan online melalui situs https://www.onlinegdb.com/ .
 
@@ -38,6 +42,8 @@ lalu masukan nilai dengan angka yang berbeda
 No.4
 
 Bahasa : C++
+
+buka file 4.cpp lalu copy paste semua codenya
 
 Silahkan gunakan applikasi compiler C++ atau coba jalankan online melalui situs https://www.onlinegdb.com/ .
 
@@ -58,6 +64,8 @@ char temp[1000]
 No.5
 
 Bahasa : C++
+
+buka file 5.cpp lalu copy paste semua codenya
 
 Silahkan gunakan applikasi compiler C++ atau coba jalankan online melalui situs https://www.onlinegdb.com/ .
 
