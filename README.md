@@ -10,7 +10,8 @@ PASS
 
 
 
-No.3
+#No.3
+
 Bahasa : C++
 Silahkan gunakan applikasi compiler C++ atau coba jalankan online melalui situs https://www.onlinegdb.com/ .
 
@@ -24,7 +25,8 @@ lalu masukan nilai dengan angka yang berbeda
 
 
 
-No.4
+#No.4
+
 Bahasa : C++
 Silahkan gunakan applikasi compiler C++ atau coba jalankan online melalui situs https://www.onlinegdb.com/ .
 
