@@ -12,7 +12,7 @@ using namespace std;
 
 int pairSocks(int socks[])
 {
-	int i,j,k,pair=0;
+	int i,j,pair=0;
 	
 	for (i=0;i<100;i++)
 	{
