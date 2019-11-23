@@ -47,7 +47,16 @@ char temp[1000]
 
 
 No.5
-PASS
+
+Bahasa : C++
+
+Silahkan gunakan applikasi compiler C++ atau coba jalankan online melalui situs https://www.onlinegdb.com/ .
+
+Untuk nomer 5, saya tidak memberikan fungsi masukan. Jadi untuk mengganti nilai pada array yg merepresentasikan warna kaos kaki, anda harus melakukan perubahan secara manual pada source codenya.
+
+Setelah anda Run Codenya, maka yang tampil hanyalan nilai Pairnya saja
+
+Maksimal warna(total angka/element pada array) yang dapat diinput hanya 100. Untuk menambah maksimal warna anda hanya perlu mengubah angka 100 pada baris 17 19 dan 40.
 
 
 No.6
